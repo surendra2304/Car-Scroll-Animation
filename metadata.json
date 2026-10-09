@@ -1,0 +1,6 @@
+{
+  "name": "ITZFIZZ Car Scroll Animation",
+  "description": "Ultra-smooth scroll-driven hero section animation built with React, GSAP ScrollTrigger, and Tailwind CSS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
